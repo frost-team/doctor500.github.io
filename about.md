@@ -66,7 +66,7 @@ saat ini saya mencoba membentuk tim developer yang bernama **White Frost Develop
 * Movie and Sound Editor
 * Photography
 * Android
-* Entrepreneurship, and i forget :D
+* Entrepreneurship, and i forget what else :)
 
 itu hanya segelintir ilmu yang saya pelajari di dunia ini, dan saya ingin belajar lebih banyak lagi dan memperdalam lagi ilmu yang sudah saya dapat.
 

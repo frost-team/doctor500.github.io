@@ -7,7 +7,7 @@ imagefeature:
 
 ---
 <figure>
-  <img src="{{ site.url }}/images/doctor500-profile.png" alt="dotor500 - David Layardi">
+  <img src="{{ site.url }}/images/doctor500-profile.png" alt="doctor500 - David Layardi">
 </figure>
 
 {% assign total_words = 0 %}

@@ -77,3 +77,4 @@ after a several years I'm in desktop programming world, I have found my hobby in
 itu hanya segelintir ilmu yang saya pelajari di dunia ini, dan saya ingin belajar lebih banyak lagi dan memperdalam lagi ilmu yang sudah saya dapat.
 
 > that just a little knowledge what I learned from this world, and I want to study more and more.
+

@@ -39,14 +39,15 @@ selain fotografi, desktop programming dan web programming. saya juga dan menguas
 saat ini saya mencoba membentuk tim developer yang bernama **White Frost Developer** . kami akan mencoba membuat beberapa project, (Doakan kami ya :D)
 
 English :
-(''Hello'')
+* Hi, I'm **David Layardi**, thanks for visit my blog. i just give you {{ site.posts | size }} posts, in {{ site.categories | size }} category with {{ total_words }} words. {% if featuredcount != 0 %} I have <a href="{{ site.url }}/featured">{{ featuredcount }} featured post</a>, and I recommend you for read that.{% endif %} *
 
-##Short Biodata
+##Short About Me
 
 * Nick Name : Doctor500
 * Real Name : David Layardi
-* Address    : Some Place at West Java
+* Address   : Some Place at West Java
 * Hobby     : Coding, Photography, Exploring Computer, linux, and android
+* Status    : Young :D (Under 20)
 
 ###Had Learn...
 * Visual Basic 6

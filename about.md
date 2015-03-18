@@ -39,13 +39,9 @@ selain fotografi, desktop programming dan web programming. saya juga dan menguas
 saat ini saya mencoba membentuk tim developer yang bernama **White Frost Developer** . kami akan mencoba membuat beberapa project, (Doakan kami ya :D)
 
 English :
-(* Hi, I'm **David Layardi**, thanks for visit my blog. I just give you {{ site.posts | size }} posts, in {{ site.categories | size }} category with {{ total_words }} words. {% if featuredcount != 0 %} I have <a href="{{ site.url }}/featured">{{ featuredcount }} featured post</a>, and I recommend you for read that.{% endif %} *)
+> Hi, I'm **David Layardi**, thanks for visit my blog. I just give you {{ site.posts | size }} posts, in {{ site.categories | size }} category with {{ total_words }} words. {% if featuredcount != 0 %} I have <a href="{{ site.url }}/featured">{{ featuredcount }} featured post</a>, and I recommend you for read that.{% endif %} I'm just young ordinary human who like with computer. I'm go to programming world from my curiosity about what is programming, how to programming, and why programming is funny ? I learn programming from self-taught or not join a course class. initially, I'm learn **desktop programming**, and then i have created a program named **Frost Antivirus**. Frost antivirus make me proud because from there I can win some reward from antivirus competition, Yeah :D
 
-(* I'm just young ordinary human who like with computer. I'm go to programming world from my curiosity about what is programming, how to programming, and why programming is funny ? I learn programming from self-taught or not join a course class*)
-
-(* initially, I'm learn **desktop programming**, and then i have created a program named **Frost Antivirus**. Frost antivirus make me proud because from there I can win some reward from antivirus competition, Yeah :D *)
-
-(* after a several years I'm in desktop programming world, I have found my hobby in **Photography** World, and I learned about photography technique for several months as hobby. when I surfing the photography tutorial in internet. I got interest about **Web Programming** because I want to share and make a beautiful web page, and I learn about web programming :D *)
+> after a several years I'm in desktop programming world, I have found my hobby in **Photography** World, and I learned about photography technique for several months as hobby. when I surfing the photography tutorial in internet. I got interest about **Web Programming** because I want to share and make a beautiful web page, and I learn about web programming :D
 
 ##Short About Me
 
@@ -80,5 +76,5 @@ English :
 
 itu hanya segelintir ilmu yang saya pelajari di dunia ini, dan saya ingin belajar lebih banyak lagi dan memperdalam lagi ilmu yang sudah saya dapat.
 
-(* that just a little knowledge what I learned from this world, and I want to stuy more and more. *)
+> that just a little knowledge what I learned from this world, and I want to stuy more and more.
 

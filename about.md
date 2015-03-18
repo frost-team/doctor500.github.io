@@ -7,7 +7,7 @@ imagefeature:
 
 ---
 <figure>
-  <img src="{{ site.url }}/images/doctor500-profile.png" alt="doctor500 - David Layardi">
+  <img src="{{ site.url }}/images/dotor500-profile.png" alt="dotor500 - David Layardi">
 </figure>
 
 {% assign total_words = 0 %}
@@ -38,11 +38,14 @@ ketika sedang mencari referensi tehnik fotografi. saya melihat sudut pandang lai
 selain fotografi, desktop programming dan web programming. saya juga dan menguasai beberapa office tool seperti word, excel, presentation, dsb. dan saya belajar tentang OS linux, serta mencoba beberapa hardware open source.
 saat ini saya mencoba membentuk tim developer yang bernama **White Frost Developer** . kami akan mencoba membuat beberapa project, (Doakan kami ya :D)
 
+English :
+(''Hello'')
+
 ##Short Biodata
 
 * Nick Name : Doctor500
 * Real Name : David Layardi
-* Adress    : Some Place at West Java
+* Address    : Some Place at West Java
 * Hobby     : Coding, Photography, Exploring Computer, linux, and android
 
 ###Had Learn...
@@ -66,7 +69,9 @@ saat ini saya mencoba membentuk tim developer yang bernama **White Frost Develop
 * Movie and Sound Editor
 * Photography
 * Android
-* Entrepreneurship, and i forget what else :)
+* Entrepreneurship, and i forget :D
 
 itu hanya segelintir ilmu yang saya pelajari di dunia ini, dan saya ingin belajar lebih banyak lagi dan memperdalam lagi ilmu yang sudah saya dapat.
+
+that just a little knowledge what i learned from this world, and i want to stuy more and more.
 

@@ -13,3 +13,5 @@ featured: true
 
 HELLO WORLD 3 !!! THIS IS MY POST ON MY BLOG !!!
 This is just my test post. I hope I can make more word with this blog and can help you :)
+![My Image]({{ site.url }}/images/apple-touch-icon-114x114-precomposed.png)
+![Fro Other Host](http://www.google.com/images/icons/ui/gprofile_button-32.png)

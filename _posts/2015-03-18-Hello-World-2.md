@@ -13,3 +13,6 @@ featured: true
 
 HELLO WORLD 2 !!! THIS IS MY SECOND POST ON MY BLOG !!!
 This is just my test post. I hope I can make more word with this blog and can help you :)
+
+[My Twitter](http://www.twitter.com/davidlayardi)
+[Facebook Fans Page](http://www.facebook.com/Doctor500.ID)

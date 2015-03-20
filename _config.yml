@@ -71,8 +71,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://doctor500.github.io/'
-  relativeLinks: 'http://doctor500.github.io/links.jsonp'
+  siteurl: 'doctor500.github.io'
+  relativeLinks: 'doctor500.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:

@@ -10,8 +10,8 @@ comments: true
 share: true
 ---
 <figure>
-<img src="{{ site.url }}/images/Cara-Paling-Modah-Root-Xiaomi-Redmi-Note-3G-Doctor500-Blog.jpg" alt="Cara Paling Modah Root Xiaomi Redmi Note 3G Doctor500 Blog">
-<figcaption>Cara Paling Modah Root Xiaomi Redmi Note 3G | Doctor500 Blog </figcaption>
+<img src="/images/Cara-Paling-Mudah-Root-Xiaomi-Redmi-Note-3G-Doctor500-Blog.jpg" alt="Cara Paling Mudah Root Xiaomi Redmi Note 3G Doctor500 Blog">
+<figcaption>Cara Paling Mudah Root Xiaomi Redmi Note 3G | Doctor500 Blog </figcaption>
 </figure>
 
 Hi bagi kalian user redmi note. di postingan perdana ini saya akan share tutorial tentang Smartphone Xiaomi Redmi Note 3G.

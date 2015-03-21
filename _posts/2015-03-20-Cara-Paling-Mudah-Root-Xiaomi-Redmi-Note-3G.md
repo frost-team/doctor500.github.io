@@ -9,6 +9,8 @@ imagefeature:
 comments: true
 share: true
 ---
+<img alt=”Cara Paling Modah Root Xiaomi Redmi Note 3G Doctor500 Blog” src=”http://doctor500.github.io/images/Cara-Paling-Modah-Root-Xiaomi-Redmi-Note-3G-Doctor500-Blog.jpg” >
+
 Hi bagi kalian user redmi note. di postingan perdana ini saya akan share tutorial tentang Smartphone Xiaomi Redmi Note 3G.
 Seperti yang kita ketahui, Handphone ini menjadi fenomenal bagi kalangan masyarakat menengah indonesia karena harganya yang sangat menggiurkan dengan spesifikasi yang dibilang, WOW sekali dengan harga 2 Jutaan sudah mendapat Octa Core dan Ram 2GB. pada postingan pertama saya ini. saya akan berbagi tutorial bagaimana cara meng-root xiaomi redmi note.
 

@@ -13,6 +13,8 @@ Hi bagi kalian user redmi note. di postingan perdana ini saya akan share tutoria
 <br />
 Seperti yang kita ketahui, Handphone ini menjadi fenomenal bagi kalangan masyarakat menengah indonesia karena harganya yang sangat menggiurkan dengan spesifikasi yang dibilang, WOW sekali dengan harga 2 Jutaan sudah mendapat Octa Core dan Ram 2GB. pada postingan pertama saya ini. saya akan berbagi tutorial bagaimana cara meng-root xiaomi redmi note.<br />
 <br />
+
+
 Oke langsung to the point kita mulai aja tutorialnya.<br />
 &nbsp;Tutorial ini sudah dipraktekan pada :<br />
 * Xiaomi Redmi note 3G<br />

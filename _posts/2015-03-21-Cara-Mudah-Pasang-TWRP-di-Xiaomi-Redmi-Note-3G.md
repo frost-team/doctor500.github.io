@@ -10,8 +10,8 @@ comments: true
 share: true
 ---
 <figure>
-<img src="http://doctor500.github.io/images/Cara-Paling-Mudah-Root-Xiaomi-Redmi-Note-3G-Doctor500-Blog.jpg" alt="Cara Paling Mudah Root Xiaomi Redmi Note 3G Doctor500 Blog">
-<figcaption>Cara Paling Mudah Root Xiaomi Redmi Note 3G at Doctor500 Blog </figcaption>
+<img src="http://doctor500.github.io/images/Cara-Mudah-Pasang-TWRP-di-Xiaomi-Redmi-Note-3G.png" alt="Cara Mudah Pasang TWRP di Xiaomi Redmi Note 3G">
+<figcaption>Cara Mudah Pasang TWRP di Xiaomi Redmi Note 3G</figcaption>
 </figure>
 
 Oke langsung saya kita ke tutorial Cara Mudah Pasang TWRP di Xiaomi Redmi Note 3G. biasanya TWRP ini dipasang jika kalian akan melakukan sedikit modifikasi terhadap Xiaomi Redmi Note 3G Kalian. oke kita langsung ke TKP (TWRP Kita Pasang, hehehe :D ). tapi sebelumnya.<br />

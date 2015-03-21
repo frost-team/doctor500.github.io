@@ -10,7 +10,7 @@ comments: true
 share: true
 ---
 <figure>
-<img src=”http://doctor500.github.io/images/Cara-Paling-Modah-Root-Xiaomi-Redmi-Note-3G-Doctor500-Blog.jpg” alt=”Cara Paling Modah Root Xiaomi Redmi Note 3G Doctor500 Blog”>
+<img src="{{ site.url }}/images/Cara-Paling-Modah-Root-Xiaomi-Redmi-Note-3G-Doctor500-Blog.jpg" alt="Cara Paling Modah Root Xiaomi Redmi Note 3G Doctor500 Blog">
 <figcaption>Cara Paling Modah Root Xiaomi Redmi Note 3G | Doctor500 Blog </figcaption>
 </figure>
 

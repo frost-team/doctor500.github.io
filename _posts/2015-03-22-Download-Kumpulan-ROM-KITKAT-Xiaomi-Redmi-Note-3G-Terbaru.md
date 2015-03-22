@@ -82,11 +82,11 @@ Setelah sebelumnnya dengan beberapa artikel saya tentang Xiaomi Redmi note 3G, k
 <li>OTA v5.2.3 - v5.2.4 : <a href="http://bigota.d.miui.com/5.2.4/miui-ota-lcsh92_wet_xm_kk-5.2.3-5.2.4-754f24226c-4.4.zip" rel="nofollow" target="_blank">http://bigota.d.miui.com/5.2.4/miui-ota-lcsh92_wet_xm_kk-5.2.3-5.2.4-754f24226c-4.4.zip</a></li>
 </ul>
 
-<b>Oh Iya, beberapa catatan tentang ROM MIUI V6 Ini :
+<b>Oh Iya, beberapa catatan tentang ROM MIUI V6 Ini :</b>
 <ul>
 <li>Posisi Unroot, dan Cara ROOTnya Berbeda dengan MIUI V5
 <li>Tidak ada Playstore (Karena China Version)
 <li>Do With Your OWN Risk
 </ul>
 <br>
-Terima Kasih :)</b>
+<i>Terima Kasih :)</i>

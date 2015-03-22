@@ -88,5 +88,5 @@ Setelah sebelumnnya dengan beberapa artikel saya tentang Xiaomi Redmi note 3G, k
 <li>Tidak ada Playstore (Karena China Version)
 <li>Do With Your OWN Risk
 </ul>
-
+<br>
 Terima Kasih :)</b>

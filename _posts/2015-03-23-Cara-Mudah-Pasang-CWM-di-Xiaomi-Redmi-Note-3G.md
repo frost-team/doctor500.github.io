@@ -25,7 +25,7 @@ Cara Install :<br />
 <ol>
 <li>Dowload Mobile Uncle, bisa via playstore <a href="https://play.google.com/store/apps/details?id=com.mobileuncle.toolbox" target="_blank">Mobile Uncle Via Playstore&nbsp;</a></li>
 <li>Lalu install Mobile Uncle, setelah install Mobile uncle akan meminta akses root,Tekan next terus (Jangan Lupa Mencentang <b>Remember my Choice</b>)</li>
-<li>Download CWM &gt;&gt; <a href="https://app.box.com/s/2rwq571pyosn7hk8yg288dv8h2ki3ur8" target="_blank">CWM (Recovery.img)</a></li>
+<li>Download CWM &gt;&gt; <a href="https://app.box.com/s/p34mewb1b5o1ww02wmszgnqldecbbwcr" target="_blank">CWM (Recovery.img)</a></li>
 <li>Ekstrak hasil download tadi pilih CWM dan ekstrak recovery.img di SDcard/Ext SDcard</li>
 <li>Buka Mobile Uncle pilih <b><i>Recovery Update</i>&nbsp;</b></li>
 <li>klik <b><i>recovery.img</i></b></li>

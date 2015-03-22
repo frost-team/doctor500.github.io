@@ -31,7 +31,7 @@ Setelah sebelumnnya dengan beberapa artikel saya tentang Xiaomi Redmi note 3G, k
 <li><b>Reboot</b></li>
 </ol>
 &nbsp;<br />
-<b><span style="font-size: large;">List ROM Xiaomi Redmin Note 3G bisa dilihat dibawah</span></b><br /><span style="font-size: large;">&nbsp;</span><br />
+<b><span style="font-size: large;">List ROM Xiaomi Redmin Note 3G bisa dilihat dibawah (Direkomendasikan pilih yang terbaru)</span></b><br /><span style="font-size: large;">&nbsp;</span><br />
 <b><span style="font-size: large;">Link Full ROM :</span></b>
 <ul>
 <li>MIUI 6 Beta v5.3.17 (Official) :      <a href="http://bigota.d.miui.com/5.3.17/miui_HMNoteW_5.3.17_9916338109_4.4.zip" rel="nofollow" target="_blank">http://bigota.d.miui.com/5.3.17/miui_HMNoteW_5.3.17_9916338109_4.4.zip</a></li>

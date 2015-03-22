@@ -18,7 +18,7 @@ Oke langsung saya kita ke tutorial Cara Mudah Pasang TWRP di Xiaomi Redmi Note 3
 <br />
 Syarat install TWRP :<br />
 <ul>
-<li>Redmi Note <i><b>Sudah posisi </b></i><b><i>Root</i></b> ,, Kalau Xiaomimu belum di Root, bisa baca artikelnya <a href="http://doctor500.github.io/android/2015/03/20/Cara-Paling-Mudah-Root-Xiaomi-Redmi-Note-3G/" target="_blank">Disini</a></li>
+<li>Redmi Note <i><b>Sudah posisi </b></i><b><i>Root</i></b> ,, Kalau Xiaomimu belum di Root, bisa baca artikel <a href="http://doctor500.github.io/android/2015/03/20/Cara-Paling-Mudah-Root-Xiaomi-Redmi-Note-3G/" target="_blank">Cara Paling Mudah Root Xiaomi Redmi Note 3G/a></li>
 </ul>
 Cara Install :<br />
 <br />

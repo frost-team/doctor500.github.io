@@ -14,11 +14,11 @@ share: true
 <figcaption>Cara Mudah Pasang CWM di Xiaomi Redmi Note 3G</figcaption>
 </figure>
 
-Dipostingan terbaru lagi tentang xiaomi redmi note 3G, hampir mirip dengan postingan sebelumnya, <a href="http://doctor500.github.io/android/2015/03/21/Cara-Mudah-Pasang-TWRP-di-Xiaomi-Redmi-Note-3G/" target="_blank">Cara Mudah Pasang TWRP di Xiaomi Redmi Note 3G</a> kali ini kita akaan mencoba memasang CWM pada Xiaomi kita.
+Dipostingan terbaru lagi tentang xiaomi redmi note 3G, hampir mirip dengan postingan sebelumnya, <a href="http://doctor500.github.io/android/2015/03/21/Cara-Mudah-Pasang-TWRP-di-Xiaomi-Redmi-Note-3G/" target="_blank">Cara Mudah Pasang TWRP di Xiaomi Redmi Note 3G</a> kali ini kita akan mencoba memasang CWM pada Xiaomi kita.
 <br />
 Syarat install CWM :<br />
 <ul>
-<li>Redmi Note <i><b>Sudah posisi </b></i><b><i>Root</i></b> ,, Kalau Xiaomimu belum di Root, bisa baca artikelnya <a href="http://doctor500.github.io/android/2015/03/20/Cara-Paling-Mudah-Root-Xiaomi-Redmi-Note-3G/" target="_blank">Disini</a></li>
+<li>Redmi Note <i><b>Sudah posisi </b></i><b><i>Root</i></b>, Kalau Xiaomimu belum di Root, bisa baca artikel <a href="http://doctor500.github.io/android/2015/03/20/Cara-Paling-Mudah-Root-Xiaomi-Redmi-Note-3G/" target="_blank">Cara Paling Mudah Root Xiaomi Redmi Note 3G</a></li>
 </ul>
 Cara Install :<br />
 <br />

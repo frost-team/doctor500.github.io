@@ -81,9 +81,14 @@ itu hanya segelintir ilmu yang saya pelajari di dunia ini, dan saya ingin belaja
 
 ##Contact Me
 
-<form action="http://formspree.io/davidlayardi07@gmail.com">
-  <input type="email" name="_replyto">
-  <input type="hidden" name="_subject" value="Your topic here" />
-  <textarea name="body"></textarea>
-  <input type="submit" value="Send">
-</form>
+<!-- Do not change the code! -->
+<a id="foxyform_embed_link_712310" href="http://www.foxyform.com/">foxyform</a>
+<script type="text/javascript">
+(function(d, t){
+   var g = d.createElement(t),
+       s = d.getElementsByTagName(t)[0];
+   g.src = "http://www.foxyform.com/js.php?id=712310&sec_hash=64864560561&width=350px";
+   s.parentNode.insertBefore(g, s);
+}(document, "script"));
+</script>
+<!-- Do not change the code! -->

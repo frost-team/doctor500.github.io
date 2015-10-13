@@ -83,6 +83,7 @@ itu hanya segelintir ilmu yang saya pelajari di dunia ini, dan saya ingin belaja
 
 <form action="http://formspree.io/davidlayardi07@gmail.com">
   <input type="email" name="_replyto">
+  <input type="hidden" name="_subject" value="Your topic here" />
   <textarea name="body"></textarea>
   <input type="submit" value="Send">
 </form>

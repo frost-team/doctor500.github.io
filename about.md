@@ -81,23 +81,4 @@ itu hanya segelintir ilmu yang saya pelajari di dunia ini, dan saya ingin belaja
 
 ##Contact Me
 
-<div id="wufoo-z13qem7n0wfr60e">
-Fill out my <a href="https://doctor500.wufoo.com/forms/z13qem7n0wfr60e">online form</a>.
-</div>
-<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">Use <a href="http://www.wufoo.com/gallery/templates/">Wufoo templates</a> to make your own HTML forms.</div>
-<script type="text/javascript">var z13qem7n0wfr60e;(function(d, t) {
-var s = d.createElement(t), options = {
-'userName':'doctor500',
-'formHash':'z13qem7n0wfr60e',
-'autoResize':true,
-'height':'521',
-'async':true,
-'host':'wufoo.com',
-'header':'show',
-'ssl':true};
-s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
-s.onload = s.onreadystatechange = function() {
-var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-try { z13qem7n0wfr60e = new WufooForm();z13qem7n0wfr60e.initialize(options);z13qem7n0wfr60e.display(); } catch (e) {}};
-var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-})(document, 'script');</script>
+<iframe height="521" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="https://doctor500.wufoo.com/embed/z13qem7n0wfr60e/"></iframe>

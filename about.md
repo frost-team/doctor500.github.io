@@ -81,14 +81,23 @@ itu hanya segelintir ilmu yang saya pelajari di dunia ini, dan saya ingin belaja
 
 ##Contact Me
 
-<!-- Do not change the code! -->
-<a id="foxyform_embed_link_712310" href="http://www.foxyform.com/">foxyform</a>
-<script type="text/javascript">
-(function(d, t){
-   var g = d.createElement(t),
-       s = d.getElementsByTagName(t)[0];
-   g.src = "http://www.foxyform.com/js.php?id=712310&sec_hash=64864560561&width=350px";
-   s.parentNode.insertBefore(g, s);
-}(document, "script"));
-</script>
-<!-- Do not change the code! -->
+<div id="wufoo-z13qem7n0wfr60e">
+Fill out my <a href="https://doctor500.wufoo.com/forms/z13qem7n0wfr60e">online form</a>.
+</div>
+<div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">Use <a href="http://www.wufoo.com/gallery/templates/">Wufoo templates</a> to make your own HTML forms.</div>
+<script type="text/javascript">var z13qem7n0wfr60e;(function(d, t) {
+var s = d.createElement(t), options = {
+'userName':'doctor500',
+'formHash':'z13qem7n0wfr60e',
+'autoResize':true,
+'height':'521',
+'async':true,
+'host':'wufoo.com',
+'header':'show',
+'ssl':true};
+s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
+s.onload = s.onreadystatechange = function() {
+var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+try { z13qem7n0wfr60e = new WufooForm();z13qem7n0wfr60e.initialize(options);z13qem7n0wfr60e.display(); } catch (e) {}};
+var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+})(document, 'script');</script>

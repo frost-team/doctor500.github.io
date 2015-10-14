@@ -12,7 +12,7 @@ Special Thanks To :
 
 if you want, Contact me at :
 Twitter : @davidlayardi
-Facebook : Doctor500.ID
+Facebook : david.layardi2
 Email : davidlayardi07@gmail.com
 
 Thank for you attention,  

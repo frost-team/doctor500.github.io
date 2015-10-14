@@ -79,7 +79,6 @@ itu hanya segelintir ilmu yang saya pelajari di dunia ini, dan saya ingin belaja
 > that just a little knowledge what I learned from this world, and I want to study more and more.
 
 
-##Contact Me
 <center>
 <iframe height="521" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="https://doctor500.wufoo.com/embed/z13qem7n0wfr60e/"></iframe>
 </center>

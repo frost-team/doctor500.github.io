@@ -45,6 +45,8 @@ links:
     url: /about
   -	title: Contact
     url: /contact
+    external: false
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Jakarta

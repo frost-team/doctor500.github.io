@@ -11,11 +11,16 @@ Special Thanks To :
 * Notepad Template by HMFaysal
 
 if you want, Contact me at :
+
+
 1. Twitter : @davidlayardi (https://twitter.com/davidlayardi)
+
 
 2. Facebook : david.layardi2 (https://www.facebook.com/david.layardi2)
 
+
 3. Email : davidlayardi07@gmail.com
+
 
 Regards,  
 David Layardi

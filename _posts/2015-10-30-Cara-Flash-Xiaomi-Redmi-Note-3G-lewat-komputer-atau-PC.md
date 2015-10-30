@@ -33,8 +33,8 @@ Yang Kamu butuhkan untuk melakukan flashing Xiaomi Redmi Note 3G adalah :<br></b
 			<li>
 				Kabel Data USB (Disarankan Original milik Xiaomi)</li>
 		</ul>
-		<p>
-			How to DO IT ?</p>
+		<br></br>
+			How to DO IT ?
 		<ol>
 			<li>
 				install MTK 6592 Driver yang sudah di download tadi</li>
@@ -65,6 +65,6 @@ Yang Kamu butuhkan untuk melakukan flashing Xiaomi Redmi Note 3G adalah :<br></b
 			<li style="margin: 5px 0px; padding: 0px; box-sizing: border-box; border: 0px; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; vertical-align: baseline;">
 				Reboot Xiaomi Mu, dan TARA !!!</li>
 		</ol>
-
+<br></br>
 semoga tutorial ini dapat membantu Xiaomi Redmi Note 3G Kalian :)
 </html>

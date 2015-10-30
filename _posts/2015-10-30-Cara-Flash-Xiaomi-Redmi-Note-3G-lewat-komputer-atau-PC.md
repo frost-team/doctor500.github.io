@@ -16,8 +16,8 @@ share: true
 </figure>
 
 
-			Untuk kamu yang ingin berganti atau menginstall ulang OS di Xiaomi Redmi Note 3G mu, caranya cukup mudah untuk orang orang yang masih awan di dunia opreker android.
-			Yang Kamu butuhkan untuk melakukan flashing Xiaomi Redmi Note 3G adalah :<br></br>
+Untuk kamu yang ingin berganti atau menginstall ulang OS di Xiaomi Redmi Note 3G mu, caranya cukup mudah untuk orang orang yang masih awan di dunia opreker android.
+Yang Kamu butuhkan untuk melakukan flashing Xiaomi Redmi Note 3G adalah :<br></br>
 		<ul>
 			<li>
 				MTK 6592 Preloader driver, <a href="https://drive.google.com/file/d/0B183VmYT1cDVWTN1a1NyZDhIaUU/view?usp=sharing" target="_blank">Download Dimari</a></li>
@@ -33,7 +33,7 @@ share: true
 				Kabel Data USB (Disarankan Original milik Xiaomi)</li>
 		</ul>
 		<p>
-			How TO ?</p>
+			How to DO IT ?</p>
 		<ol>
 			<li>
 				install MTK 6592 Driver yang sudah di download tadi</li>
@@ -65,4 +65,4 @@ share: true
 				Reboot Xiaomi Mu, dan TARA !!!</li>
 		</ol>
 		
-			semoga tutorial ini dapat membantu Xiaomi Redmi Note 3G Kalian :)</p>
+semoga tutorial ini dapat membantu Xiaomi Redmi Note 3G Kalian :)</p>

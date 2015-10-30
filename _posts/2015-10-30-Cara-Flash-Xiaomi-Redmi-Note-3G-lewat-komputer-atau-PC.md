@@ -12,7 +12,7 @@ share: true
 
 <figure>
 <img src="http://doctor500.github.io/images/Cara-Paling-Mudah-Root-Xiaomi-Redmi-Note-3G-Doctor500-Blog.jpg" alt="Cara Paling Mudah Root Xiaomi Redmi Note 3G Doctor500 Blog">
-<figcaption>Cara Paling Mudah Root Xiaomi Redmi Note 3G at Doctor500 Blog </figcaption>
+<figcaption>Cara Flash Xiaomi Redmi Note 3G lewat Komputer atau PC </figcaption>
 </figure>
 
 <html>
